@@ -79,20 +79,6 @@ python -m PyInstaller --onefile --windowed --icon=icon.png sub.py
 - `requirements.txt` - المكتبات المطلوبة
 - `.gitignore` - ملف جهل git
 
-## الترخيص
-
-هذا المشروع مرخص تحت رخصة MIT.
-
-## المساهمة
-
-يرحب بالمساهمات! يمكنك:
-1. فتح issue لإبلاغ عن خطأ أو طلب ميزة
-2. عمل fork وإرسال pull request
-
-## الدعم
-
-إذا واجهت أي مشاكل، يرجى فتح issue في المستودع.
-
 ---
 
 تم التطوير بـ ❤️ باستخدام Python و Kivy
