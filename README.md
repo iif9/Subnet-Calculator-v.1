@@ -75,10 +75,7 @@ python -m PyInstaller --onefile --windowed --icon=icon.png sub.py
 
 - `sub.py` - البرنامج الرئيسي
 - `icon.png` - أيقونة التطبيق
-- `create_icon.py` - سكريبت إنشاء الأيقونة
 - `requirements.txt` - المكتبات المطلوبة
-- `.gitignore` - ملف جهل git
-
 ---
 
 تم التطوير بـ ❤️ 
