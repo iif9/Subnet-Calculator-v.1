@@ -81,4 +81,4 @@ python -m PyInstaller --onefile --windowed --icon=icon.png sub.py
 
 ---
 
-تم التطوير بـ ❤️ باستخدام Python و Kivy
+تم التطوير بـ ❤️ 
